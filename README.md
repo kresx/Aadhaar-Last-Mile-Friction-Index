@@ -1,6 +1,6 @@
 # Aadhaar-Last-Mile-Friction-Index
 AI-Powered Dashboard to measure Aadhaar Maintenance Friction and Child Exclusion Risk (UIDAI Hackathon 2026).
-# 🇮🇳 The Last-Mile Friction Index
+# The Last-Mile Friction Index
 ### UIDAI Hackathon 2026 Submission
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
