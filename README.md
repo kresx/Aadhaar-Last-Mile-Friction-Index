@@ -33,7 +33,7 @@ The project is modularized into four core components:
 ## 🚀 Deployment Instructions
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Aadhaar-Last-Mile-Friction-Index.git](https://github.com/YOUR_USERNAME/Aadhaar-Last-Mile-Friction-Index.git)
+    git clone https://github.com/kresx/Aadhaar-Last-Mile-Friction-Index
     ```
 2.  **Install Dependencies:**
     ```bash
