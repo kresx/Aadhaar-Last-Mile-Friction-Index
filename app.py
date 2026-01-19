@@ -170,4 +170,5 @@ with col_export:
         file_name="Aadhaar_Friction_Report.csv",
         mime="text/csv",
         type="primary"
+
     )
