@@ -14,7 +14,7 @@ This project introduces the **Friction Index**—a new metric to quantify the "m
 We use **Unsupervised Machine Learning (K-Means)** to segment Indian districts into risk categories and identify "Scholarship Time Bombs" where children are at risk of service exclusion.
 
 ## 🎥 Live Demo
-**[Click Here to Watch the Video Demo]**
+**(https://drive.google.com/file/d/153TAiWMPe5hVtAVfKrRc5-vwr9fsmDTT/view?usp=sharing)**
 
 ## 📊 Key Features
 1.  **AI-Powered Clustering:** Automatically segments districts into "Healthy Growth," "High Maintenance," and "Critical Friction."
